@@ -16,3 +16,4 @@ class Sort {
         System.out.println(Arrays.toString(a));
     }
 }
+//result: The program is successfully completed
